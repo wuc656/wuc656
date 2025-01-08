@@ -1,4 +1,13 @@
 ## 吳彥東 (東東)
+<img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&theme=radical&title_color=8E2DE2&text_color=fff)
+
+![HTML5](https://img.shields.io/badge/Golang%201.20.14-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+
 ## 目錄
 
 - [1**生平**](https://zh.wikipedia.org/wiki/User:%E5%90%B3%E5%BD%A5%E6%9D%B1#%E7%94%9F%E5%B9%B3)
