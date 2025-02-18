@@ -1,12 +1,52 @@
 ## 吳彥東 (東東)
+# 👋 你好，我是彥東
+
+我是位於台中的軟體工程師，專注於後端和前端開發。以下是我熟悉的技術：
+
+## 🛠️ 技術堆疊
+
+### 後端開發
+
+- ![Go](https://img.shields.io/badge/Go-1.23.4-blue?logo=go)  
+  使用 Go 語言進行高效能的後端開發。
+
+- ![Echo](https://img.shields.io/badge/Echo-v4.13.3-blue?logo=echo)  
+  基於 Echo 框架構建 RESTful API。
+
+- ![Xorm](https://img.shields.io/badge/Xorm-1.3.9-blue?logo=xorm)  
+  使用 Xorm 進行資料庫操作。
+
+### 前端開發
+
+- ![Vue.js](https://img.shields.io/badge/Vue.js-v3.5.13-brightgreen?logo=vue.js)  
+  使用 Vue.js 建立互動式使用者介面。
+
+- ![Vite](https://img.shields.io/badge/Vite-v6.0.7-brightgreen?logo=vite)  
+  採用 Vite 作為快速的前端建構工具。
+
+- ![Axios](https://img.shields.io/badge/Axios-v1.7.9-brightgreen?logo=axios)  
+  透過 Axios 進行 HTTP 請求。
+
+- ![PrimeVue](https://img.shields.io/badge/PrimeVue-v4.2.5-brightgreen?logo=primevue)  
+  使用 PrimeVue 提供豐富的 UI 元件。
+
+- ![masterCSS](https://img.shields.io/badge/masterCSS-v1.37.7-brightgreen?logo=mastercss)  
+  採用 masterCSS 進行樣式設計。
+
+### 其他語言
+
+- ![Delphi](https://img.shields.io/badge/Delphi%202009-Object%20Pascal-orange?logo=delphi)  
+  擁有使用 Delphi 2009 進行 Windows 應用程式開發的經驗。
+
+## 關於我
+
+- 🌱 目前正在將舊有的 Delphi 2009 應用程式逐步重寫為現代化的 Web 應用，後端使用 Go 和 Echo，前端採用 Vue.js 和相關技術。
+
+- 💬 如果您對上述技術有任何問題，歡迎與我討論。
+
+- 📫 您可以透過 [wuc656@gmail.com] 與我聯繫。
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&theme=radical&title_color=8E2DE2&text_color=fff)
 <img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&theme=radical&title_color=8E2DE2&text_color=fff)
-
-![HTML5](https://img.shields.io/badge/Golang%201.20.14-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
 ## 目錄
 
