@@ -13,25 +13,21 @@
 - ![Echo](https://img.shields.io/badge/Echo-v4.13.3-blue?logo=echo)  
   基於 Echo 框架構建 RESTful API。
 
-- ![Xorm](https://img.shields.io/badge/Xorm-1.3.9-blue?logo=xorm)  
+- ![Xorm](https://img.shields.io/badge/Xorm-1.3.10-blue?logo=xorm)  
   使用 Xorm 進行資料庫操作。
 
 ### 前端開發
 
 - ![Vue.js](https://img.shields.io/badge/Vue.js-v3.5.13-brightgreen?logo=vue.js)  
-  使用 Vue.js 建立互動式使用者介面。
 
 - ![Vite](https://img.shields.io/badge/Vite-v6.0.7-brightgreen?logo=vite)  
-  採用 Vite 作為快速的前端建構工具。
 
 - ![Axios](https://img.shields.io/badge/Axios-v1.7.9-brightgreen?logo=axios)  
-  透過 Axios 進行 HTTP 請求。
 
 - ![PrimeVue](https://img.shields.io/badge/PrimeVue-v4.2.5-brightgreen?logo=primevue)  
-  使用 PrimeVue 提供豐富的 UI 元件。
 
-- ![masterCSS](https://img.shields.io/badge/masterCSS-v1.37.7-brightgreen?logo=mastercss)  
-  採用 masterCSS 進行樣式設計。
+- ![masterCSS]([https://img.shields.io/badge/masterCSS-v1.37.8-brightgreen?logo=mastercss](https://img.shields.io/badge/masterCSS-v1.37.7-blue?logo=https%3A%2F%2Fcss.master.co%2Fimages%2Ffavicon.png
+))  
 
 ### 其他語言
 
@@ -45,7 +41,7 @@
 - 💬 如果您對上述技術有任何問題，歡迎與我討論。
 
 - 📫 您可以透過 [wuc656@gmail.com] 與我聯繫。
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&theme=radical&title_color=8E2DE2&text_color=fff)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&theme=radical&title_color=8E2DE2&text_color=fff)
 <img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ## 目錄
