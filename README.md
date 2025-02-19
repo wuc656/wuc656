@@ -7,32 +7,20 @@
 
 ### 後端開發
 
-- ![Go](https://img.shields.io/badge/Go-1.23.4-blue?logo=go)  
-  使用 Go 語言進行高效能的後端開發。
-
-- ![Echo](https://img.shields.io/badge/Echo-v4.13.3-blue?logo=echo)  
-  基於 Echo 框架構建 RESTful API。
-
-- ![Xorm](https://img.shields.io/badge/Xorm-1.3.10-blue?logo=xorm)  
-  使用 Xorm 進行資料庫操作。
+- ![Go](https://img.shields.io/badge/Go-1.23.4-blue?logo=go)  ![Echo](https://img.shields.io/badge/Echo-v4.13.3-blue?logo=echo)  ![Xorm](https://img.shields.io/badge/Xorm-1.3.10-blue?logo=xorm)  
 
 ### 前端開發
 
-- ![Vue.js](https://img.shields.io/badge/Vue.js-v3.5.13-brightgreen?logo=vue.js)  
-
-- ![Vite](https://img.shields.io/badge/Vite-v6.0.7-brightgreen?logo=vite)  
+- ![Vue.js](https://img.shields.io/badge/Vue.js-v3.5.13-brightgreen?logo=vue.js)  ![Vite](https://img.shields.io/badge/Vite-v6.0.7-brightgreen?logo=vite)  
 
 - ![Axios](https://img.shields.io/badge/Axios-v1.7.9-brightgreen?logo=axios)  
 
-- ![PrimeVue](https://img.shields.io/badge/PrimeVue-v4.2.5-brightgreen?logo=primevue)  
-
-- ![masterCSS]([https://img.shields.io/badge/masterCSS-v1.37.8-brightgreen?logo=mastercss](https://img.shields.io/badge/masterCSS-v1.37.7-blue?logo=https%3A%2F%2Fcss.master.co%2Fimages%2Ffavicon.png
+- ![PrimeVue](https://img.shields.io/badge/PrimeVue-v4.2.5-brightgreen?logo=primevue)  ![masterCSS]([https://img.shields.io/badge/masterCSS-v1.37.8-brightgreen?logo=mastercss](https://img.shields.io/badge/masterCSS-v1.37.7-blue?logo=https%3A%2F%2Fcss.master.co%2Fimages%2Ffavicon.png
 ))  
 
 ### 其他語言
 
-- ![Delphi](https://img.shields.io/badge/Delphi%202009-Object%20Pascal-orange?logo=delphi)  
-  擁有使用 Delphi 2009 進行 Windows 應用程式開發的經驗。
+- ![Delphi 2009](https://img.shields.io/badge/Delphi%202009-Object%20Pascal-orange?logo=delphi)
 
 ## 關於我
 
