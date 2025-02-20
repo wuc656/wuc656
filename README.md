@@ -59,9 +59,9 @@
 
 # **興趣**
 
-[當個創世神：Mojang的故事](https://zh.wikipedia.org/wiki/%E7%95%B6%E5%80%8B%E5%89%B5%E4%B8%96%E7%A5%9E%EF%BC%9AMojang%E7%9A%84%E6%95%85%E4%BA%8B "當個創世神：Mojang的故事")
+[星球：重啟](https://www.2112earthrevival.com/ "星球：重啟")
 
-[英雄聯盟](https://zh.wikipedia.org/wiki/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F "英雄聯盟")
+[崩壞：星穹鐵道](https://hsr.hoyoverse.com/zh-tw/home "崩壞：星穹鐵道")
 
 # **相關網站**
 
