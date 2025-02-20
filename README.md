@@ -24,8 +24,8 @@
 
 - 📫 您可以透過 [wuc656@gmail.com] 與我聯繫。
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&theme=radical&title_color=8E2DE2&text_color=fff)
-<img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&locale=zh-tw)
+<img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&locale=zh-tw">
 
 ## 目錄
 
