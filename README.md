@@ -27,31 +27,22 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuc656&locale=zh-tw)
 <img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&locale=zh-tw">
 
-## 目錄
-
-- [1**生平**](https://zh.wikipedia.org/wiki/User:%E5%90%B3%E5%BD%A5%E6%9D%B1#%E7%94%9F%E5%B9%B3)
-- [2**事蹟**](https://zh.wikipedia.org/wiki/User:%E5%90%B3%E5%BD%A5%E6%9D%B1#%E4%BA%8B%E8%B9%9F)
-- [3**個人特質**](https://zh.wikipedia.org/wiki/User:%E5%90%B3%E5%BD%A5%E6%9D%B1#%E5%80%8B%E4%BA%BA%E7%89%B9%E8%B3%AA)
-- [4**興趣**](https://zh.wikipedia.org/wiki/User:%E5%90%B3%E5%BD%A5%E6%9D%B1#%E8%88%88%E8%B6%A3)
-- [5**相關網站**](https://zh.wikipedia.org/wiki/User:%E5%90%B3%E5%BD%A5%E6%9D%B1#%E7%9B%B8%E9%97%9C%E7%B6%B2%E7%AB%99)
-
-# **生平**
-
-- 在2000年12月22日出生於[中華民國](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B "中華民國")[台灣](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3 "臺灣")[苗栗市](https://zh.wikipedia.org/wiki/%E8%8B%97%E6%A0%97%E5%B8%82 "苗栗市")。
-
 # **事蹟**
-
+- 2023年 9月19日
 - 2023年 於 [國立高雄科技大學](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8 "國立高雄科技大學") 畢業
-- 2019年 考上了[國立高雄科技大學](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8 "國立高雄科技大學")(建工校區) 的 資訊工程系
-- 2016年 考上了[臺中市私立僑泰高級中學](https://zh.wikipedia.org/wiki/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%A7%81%E7%AB%8B%E5%83%91%E6%B3%B0%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8 "臺中市私立僑泰高級中學")，畢業於資訊科三年甲班
+- 2019年 考上了[國立高雄科技大學](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8 "國立高雄科技大學")(建工校區)資訊工程系
+- 2016年 考上了[臺中市私立僑泰高級中學](https://zh.wikipedia.org/wiki/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%A7%81%E7%AB%8B%E5%83%91%E6%B3%B0%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8 "臺中市私立僑泰高級中學") 畢業於資訊科三年甲班
 - 2016年 得到 國中教育會考 **3A2B** 的成績 (A++,A+,A,B++,B+)
-- 2015年 與 2016年 與 學校國文老師(**[鄭麗美](https://www.facebook.com/dadulucy)**)，為大道國中當屆畢業生製作**畢業微電影**
+- 2015年 與 2016年 與 學校國文老師(**[鄭麗美](https://www.facebook.com/dadulucy)**) 為大道國中當屆畢業生製作**畢業微電影**
+  
   **[2015畢業微電影](https://www.youtube.com/watch?v=df7rQDfLSqU&feature=youtu.be)** **[2016畢業微電影](https://www.youtube.com/watch?v=cpNNkTnlw68&feature=youtu.be)**
 - 2016年 畢業於[**大道國中**](http://www.ddjhs.tc.edu.tw/)
 - 2013年 畢業於[**山陽國小**](https://syps.tc.edu.tw/)
 - 創立 **[東東的創世神伺服器](https://www.facebook.com/wud656)**(DDS)，
-- 玩家人數頗多，曾因家裡網路問題，關閉過伺服器，
-- 但目前伺服器依然持續運營。[**伺服粉絲團**](https://www.facebook.com/wud656)
+  
+  玩家人數頗多，曾因家裡網路問題，關閉過伺服器，
+  
+  但目前伺服器依然持續運營。[**伺服粉絲團**](https://www.facebook.com/wud656)
 
 # **興趣**
 
