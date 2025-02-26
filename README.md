@@ -69,10 +69,8 @@
 
 **[Twitch(個人檔案)](https://www.twitch.tv/wuc656/profile)**
 
-**[Twitter](https://twitter.com/wuc656)**
+**[Twitter(X)](https://twitter.com/wuc656)**
 
 **[Instagram](https://www.instagram.com/wuc656/)**
-
-**[Google+](https://plus.google.com/u/0/+%E5%90%B3%E5%BD%A5%E6%9D%B1)**
 
 **[Dailymotion](http://www.dailymotion.com/wuc656)**
