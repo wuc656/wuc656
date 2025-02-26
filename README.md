@@ -34,9 +34,9 @@
 - 2019年 考上了[國立高雄科技大學](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8 "國立高雄科技大學")(建工校區)資訊工程系
 - 2016年 考上了[臺中市私立僑泰高級中學](https://zh.wikipedia.org/wiki/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%A7%81%E7%AB%8B%E5%83%91%E6%B3%B0%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8 "臺中市私立僑泰高級中學") 畢業於資訊科三年甲班
 - 2016年 得到 國中教育會考 **3A2B** 的成績 (A++,A+,A,B++,B+)
-- 2015年 與 2016年 與 學校國文老師([鄭麗美](https://www.facebook.com/dadulucy)) 為大道國中當屆畢業生製作畢業微電影
+- 2015年 與 2016年 與 學校國文老師([鄭麗美](https://www.facebook.com/dadulucy))
   
-  [2015畢業微電影](https://www.youtube.com/watch?v=df7rQDfLSqU&feature=youtu.be) [2016畢業微電影](https://www.youtube.com/watch?v=cpNNkTnlw68&feature=youtu.be)
+   為大道國中當屆畢業生製作畢業微電影 [2015畢業微電影](https://www.youtube.com/watch?v=df7rQDfLSqU&feature=youtu.be) [2016畢業微電影](https://www.youtube.com/watch?v=cpNNkTnlw68&feature=youtu.be)
 - 2016年 畢業於[大道國中](http://www.ddjhs.tc.edu.tw/)
 - 2013年 畢業於[山陽國小](https://syps.tc.edu.tw/)
 - 創立並營運著 [東東的創世神伺服【1.12.2】](https://www.facebook.com/wud656) 
