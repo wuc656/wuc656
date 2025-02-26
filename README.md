@@ -28,21 +28,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&locale=zh-tw">
 
 # **事蹟**
-- 2023年 9月19日
+- 2024年 3月18日 入職 [中程資訊顧問有限公司](https://cmis.tw/ "中程資訊顧問有限公司")
+- 2023年 9月19日 入伍 (4個月軍事訓練役) 於當年12月31日結訓
 - 2023年 於 [國立高雄科技大學](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8 "國立高雄科技大學") 畢業
 - 2019年 考上了[國立高雄科技大學](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E9%AB%98%E9%9B%84%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8 "國立高雄科技大學")(建工校區)資訊工程系
 - 2016年 考上了[臺中市私立僑泰高級中學](https://zh.wikipedia.org/wiki/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%A7%81%E7%AB%8B%E5%83%91%E6%B3%B0%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8 "臺中市私立僑泰高級中學") 畢業於資訊科三年甲班
 - 2016年 得到 國中教育會考 **3A2B** 的成績 (A++,A+,A,B++,B+)
-- 2015年 與 2016年 與 學校國文老師(**[鄭麗美](https://www.facebook.com/dadulucy)**) 為大道國中當屆畢業生製作**畢業微電影**
+- 2015年 與 2016年 與 學校國文老師([鄭麗美](https://www.facebook.com/dadulucy)) 為大道國中當屆畢業生製作畢業微電影
   
-  **[2015畢業微電影](https://www.youtube.com/watch?v=df7rQDfLSqU&feature=youtu.be)** **[2016畢業微電影](https://www.youtube.com/watch?v=cpNNkTnlw68&feature=youtu.be)**
-- 2016年 畢業於[**大道國中**](http://www.ddjhs.tc.edu.tw/)
-- 2013年 畢業於[**山陽國小**](https://syps.tc.edu.tw/)
-- 創立 **[東東的創世神伺服器](https://www.facebook.com/wud656)**(DDS)，
-  
-  玩家人數頗多，曾因家裡網路問題，關閉過伺服器，
-  
-  但目前伺服器依然持續運營。[**伺服粉絲團**](https://www.facebook.com/wud656)
+  [2015畢業微電影](https://www.youtube.com/watch?v=df7rQDfLSqU&feature=youtu.be) [2016畢業微電影](https://www.youtube.com/watch?v=cpNNkTnlw68&feature=youtu.be)
+- 2016年 畢業於[大道國中](http://www.ddjhs.tc.edu.tw/)
+- 2013年 畢業於[山陽國小](https://syps.tc.edu.tw/)
+- 創立並營運著 [東東的創世神伺服【1.12.2】](https://www.facebook.com/wud656) 
 
 # **興趣**
 
