@@ -24,7 +24,7 @@
 
 - 📫 您可以透過 [wuc656@gmail.com] 與我聯繫。
   
-![Top Langs](https://github-readme-stats-gray-five-71.vercel.app/api/top-langs/?username=wuc656&langs_count=10&layout=compact&locale=zh-tw)
+![Top Langs](https://github-readme-stats-dong.vercel.app/api/top-langs/?username=wuc656&langs_count=10&layout=compact&locale=zh-tw)
 <img src="https://github-readme-stats.vercel.app/api?username=wuc656&show_icons=true&locale=zh-tw">
 
 # **事蹟**
